@@ -1,6 +1,6 @@
-package org.main;
+package org.controle.fluxo.main;
 
-import org.Exception.ParametrosInvalidosException;
+import org.controle.fluxo.exception.ParametrosInvalidosException;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package org.Exception;
+package org.controle.fluxo.exception;
 
 public class ParametrosInvalidosException extends Exception {
     public ParametrosInvalidosException(String errorMessage) {
